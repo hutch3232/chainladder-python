@@ -1,12 +1,12 @@
 .. -*- mode: rst -*-
 
-.. |Python versions| image:: https://badgen.net/pypi/python/chainladder
+.. |Python versions| image:: https://img.shields.io/pypi/pyversions/chainladder.svg
    :target: https://pypi.python.org/pypi/chainladder
 
-.. |PyPI version| image:: https://badgen.net/pypi/v/chainladder
+.. |PyPI version| image:: https://img.shields.io/pypi/v/chainladder.svg
    :target: https://pypi.python.org/pypi/chainladder
 
-.. |Downloads| image:: https://badgen.net/pypi/dm/chainladder
+.. |Downloads| image:: https://img.shields.io/pypi/dm/chainladder.svg
    :target: https://pypi.python.org/pypi/chainladder
 
 .. |Conda-forge version| image:: https://img.shields.io/conda/vn/conda-forge/chainladder.svg?label=conda-forge
@@ -15,7 +15,7 @@
 .. |Conda-forge downloads| image:: https://img.shields.io/conda/dn/conda-forge/chainladder.svg?label=conda-forge%20downloads
    :target: https://anaconda.org/conda-forge/chainladder
 
-.. |License| image:: https://badgen.net/pypi/license/chainladder
+.. |License| image:: https://img.shields.io/pypi/l/chainladder.svg
    :target: https://pypi.python.org/pypi/chainladder
 
 .. |Build Status| image:: https://github.com/casact/chainladder-python/actions/workflows/pytest.yml/badge.svg
